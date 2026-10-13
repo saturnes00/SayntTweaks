@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "dev.saynt.tweaks.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"AbstractContainerScreenAccessor",
+		"AbstractContainerScreenLabelsMixin",
+		"InventoryScreenLabelsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

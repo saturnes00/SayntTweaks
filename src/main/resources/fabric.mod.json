@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "sayntstweaks",
+	"version": "${version}",
+	"name": "Saynt's Tweaks",
+	"description": "Client-side quality-of-life tweaks: chest sorting and darker menus. Works on vanilla servers.",
+	"authors": [
+		"Saynt"
+	],
+	"contact": {
+		"sources": "https://github.com/saturnes00/SayntTweaks"
+	},
+	"license": "MIT",
+	"icon": "assets/sayntstweaks/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.saynt.tweaks.SayntTweaks"
+		]
+	},
+	"mixins": [
+		"sayntstweaks.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"sayntstweaks.sort.container": "Ranger le coffre",
+	"sayntstweaks.sort.inventory": "Ranger l'inventaire",
+	"sayntstweaks.sort_mode": "Ordre : %s",
+	"sayntstweaks.sort_mode.hint": "§7Maj + clic pour changer",
+	"sayntstweaks.sort_mode.minecraft": "Minecraft",
+	"sayntstweaks.sort_mode.name": "Nom (A→Z)",
+	"sayntstweaks.sort_mode.quantity": "Quantité",
+	"sayntstweaks.sort_mode.category": "Catégorie",
+	"sayntstweaks.pack.dark_ui": "Saynt's Tweaks : interface sombre",
+	"sayntstweaks.deposit": "Déposer les objets correspondants",
+	"sayntstweaks.deposit.hint": "§7Envoie les objets déjà présents dans ce coffre",
+	"sayntstweaks.search": "Rechercher",
+	"sayntstweaks.search.hint": "Rechercher…",
+	"sayntstweaks.deposit_all": "Tout déposer",
+	"sayntstweaks.deposit_all.hint": "§7Vide ton inventaire dans ce coffre (sauf la barre d'action)",
+	"sayntstweaks.take_all": "Tout prendre",
+	"sayntstweaks.take_all.hint": "§7Vide ce coffre dans ton inventaire (sauf la barre d'action)"
+}

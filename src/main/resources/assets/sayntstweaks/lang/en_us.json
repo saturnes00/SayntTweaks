@@ -1,0 +1,19 @@
+{
+	"sayntstweaks.sort.container": "Sort container",
+	"sayntstweaks.sort.inventory": "Sort inventory",
+	"sayntstweaks.sort_mode": "Order: %s",
+	"sayntstweaks.sort_mode.hint": "§7Shift-click to change",
+	"sayntstweaks.sort_mode.minecraft": "Minecraft",
+	"sayntstweaks.sort_mode.name": "Name (A→Z)",
+	"sayntstweaks.sort_mode.quantity": "Quantity",
+	"sayntstweaks.sort_mode.category": "Category",
+	"sayntstweaks.pack.dark_ui": "Saynt's Tweaks: Dark UI",
+	"sayntstweaks.deposit": "Deposit matching items",
+	"sayntstweaks.deposit.hint": "§7Moves inventory items already in this container",
+	"sayntstweaks.search": "Search",
+	"sayntstweaks.search.hint": "Search…",
+	"sayntstweaks.deposit_all": "Deposit everything",
+	"sayntstweaks.deposit_all.hint": "§7Empties your inventory into this container (not the hotbar)",
+	"sayntstweaks.take_all": "Take everything",
+	"sayntstweaks.take_all.hint": "§7Moves this container's contents into your inventory (not the hotbar)"
+}
